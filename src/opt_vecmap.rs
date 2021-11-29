@@ -1,4 +1,4 @@
-use crate::mapvec::TupleVecMapVisitor;
+use crate::vecmap::TupleVecMapVisitor;
 
 use core::{fmt, marker::PhantomData};
 use serde::{de::Visitor, Deserialize, Deserializer};

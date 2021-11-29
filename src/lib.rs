@@ -1,2 +1,2 @@
-pub mod mapvec;
-pub mod opt_mapvec;
+pub mod vecmap;
+pub mod opt_vecmap;
